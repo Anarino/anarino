@@ -13,7 +13,7 @@ I am a person who wants everything to go according to plan and will do anything 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="www.linkedin.com/in/anar-azimzade-725705298/" target="_blank">
+    <a href="https://www.linkedin.com/in/anar-azimzade-725705298/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/akio811" target="_blank">
